@@ -1,3 +1,5 @@
+Tech Stack
+HTML5 JavaScript NPM  NestJS Next JS  React Socket.io TailwindCSS Git GitHub
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
